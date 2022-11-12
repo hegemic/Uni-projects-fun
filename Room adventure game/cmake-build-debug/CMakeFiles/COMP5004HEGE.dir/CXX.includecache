@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.cpp
+GameObject.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.h
+list
+-
+iostream
+-
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.h
+string
+-
+iterator
+-
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/Room.cpp
+Room.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/Room.h
+wordwrap.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/wordwrap.h
+GameObject.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.h
+iostream
+-
+list
+-
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/Room.h
+string
+-
+forward_list
+-
+list
+-
+GameObject.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.h
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/State.cpp
+State.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/State.h
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/State.h
+Room.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/Room.h
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/main.cpp
+iostream
+-
+iomanip
+-
+memory
+-
+iterator
+-
+vector
+-
+forward_list
+-
+list
+-
+fstream
+-
+Room.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/Room.h
+wordwrap.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/wordwrap.h
+State.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/State.h
+strings.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/strings.h
+GameObject.h
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.h
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/strings.h
+string
+-
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/wordwrap.cpp
+cstdint
+-
+iterator
+-
+iostream
+-
+
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/wordwrap.h
+string
+-
+

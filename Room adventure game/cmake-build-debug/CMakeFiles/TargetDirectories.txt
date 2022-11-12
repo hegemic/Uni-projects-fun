@@ -1,0 +1,3 @@
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/CMakeFiles/COMP5004HEGE.dir
