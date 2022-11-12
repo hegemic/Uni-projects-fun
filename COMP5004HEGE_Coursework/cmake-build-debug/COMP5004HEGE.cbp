@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="COMP5004HEGE"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="COMP5004HEGE">
+				<Option output="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/COMP5004HEGE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 COMP5004HEGE"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="COMP5004HEGE/fast">
+				<Option output="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/COMP5004HEGE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 COMP5004HEGE/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/hegemichalsen/Documents/Year\ 2/Software\ dev\ with\ C\ and\ C++/Coursework/COMP5004HEGE_Coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.cpp">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/GameObject.h">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/Room.cpp">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/Room.h">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/State.cpp">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/State.h">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/main.cpp">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/strings.h">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/wordwrap.cpp">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/wordwrap.h">
+			<Option target="COMP5004HEGE"/>
+		</Unit>
+		<Unit filename="/Users/hegemichalsen/Documents/Year 2/Software dev with C and C++/Coursework/COMP5004HEGE_Coursework/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
