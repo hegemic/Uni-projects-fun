@@ -1,0 +1,7 @@
+Brexit Party:240056
+Labour:119931
+Liberal Democrats:104330
+Green:49905
+Conservative:42395
+UKIP:38269
+Change UK:24968
